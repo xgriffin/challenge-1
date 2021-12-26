@@ -10,4 +10,4 @@
 ## - added css comments
 
 
-![screenshot](screenshot1.png)
+## Link: https://xgriffin.github.io/challenge-1/
