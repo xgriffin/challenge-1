@@ -10,4 +10,4 @@
 ## - added css comments
 
 
-## Link: https://xgriffin.github.io/challenge-1/develop/
+## Link: https://xgriffin.github.io/challenge-1/
